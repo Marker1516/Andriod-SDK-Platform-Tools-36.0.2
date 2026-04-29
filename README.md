@@ -1,0 +1,2 @@
+# ANDRIOD-ADB-PLATFORM-TOOLS-1.2.4.2.
+andriod pc
